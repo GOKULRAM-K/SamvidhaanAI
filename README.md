@@ -6,7 +6,7 @@
 ## 🧠 Abstract
 **SamvidhaanAI** is a legal chatbot designed to improve accessibility to the Indian Constitution using a Retrieval-Augmented Generation (RAG) pipeline powered by **Google's Gemini AI**. It uses semantic embeddings, ChromaDB for retrieval, and LangChain for orchestration, all presented via an interactive **Streamlit** interface. This AI-driven system aims to bridge the gap between citizens and complex legal information.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) 
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?logo=streamlit)
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-2C8EBB?logo=chainlink)
 ![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-8A2BE2?logo=database)
